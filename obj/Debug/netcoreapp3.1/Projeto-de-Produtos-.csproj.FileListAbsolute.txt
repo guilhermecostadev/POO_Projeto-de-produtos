@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\bin\Debug\netcoreapp3.1\Projeto-de-Produtos-.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Projeto-de-Produtos-\obj\Debug\netcoreapp3.1\Projeto-de-Produtos-.genruntimeconfig.cache
